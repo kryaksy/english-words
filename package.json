@@ -1,0 +1,27 @@
+{
+  "name": "english-words",
+  "version": "1.0.0",
+  "description": "Get random english word",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kryaksy/english-words.git"
+  },
+  "keywords": [
+    "random",
+    "english",
+    "word"
+  ],
+  "author": "Ibrahim K. Aksoy <ib.koray@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kryaksy/english-words/issues"
+  },
+  "homepage": "https://github.com/kryaksy/english-words#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
